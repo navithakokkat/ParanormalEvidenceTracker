@@ -1,5 +1,4 @@
 Name: 		    Navitha Kokkat
-Student ID: 	101257023
 
 ## Assignment #3: Structs and Dynamic Memory
 
